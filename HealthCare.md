@@ -11,7 +11,6 @@ This project leverages healthcare data to deliver actionable insights for improv
 
 
 
-Data Modeling
 ![image](https://github.com/user-attachments/assets/1107f2c5-4dbd-4ad0-b19e-a85e8901080e)
 
 
